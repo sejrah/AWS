@@ -1,10 +1,14 @@
 # (Path) Prepare for Certification:
-...https://aws.amazon.com/certification/certification-prep/
+
+https://aws.amazon.com/certification/certification-prep/
+
 ...https://aws.amazon.com/certification/certified-solutions-architect-professional/
+
 
 ##Training
 	Check You Tube for - Advanced Architecting on AWS - https://aws.amazon.com/training/course-descriptions/advanced-architecting/
-	aCloudGuru
+	
+	aCloudGuru<br>
 	Linux Academy
 	Reinvent videos
 	You Tube videos
