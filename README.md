@@ -6,9 +6,7 @@ https://aws.amazon.com/certification/certified-solutions-architect-professional/
 
 
 Training
-	Check You Tube for - Advanced Architecting on AWS
-	
-		https://aws.amazon.com/training/course-descriptions/advanced-architecting/
+	Check You Tube for - Advanced Architecting on AWS - https://aws.amazon.com/training/course-descriptions/advanced-architecting/
 		
 	aCloudGuru
 	
