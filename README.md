@@ -1,5 +1,3 @@
-# (Path) Prepare for Certification:
-
 https://aws.amazon.com/certification/certification-prep/
 
 https://aws.amazon.com/certification/certified-solutions-architect-professional/
