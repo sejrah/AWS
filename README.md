@@ -147,4 +147,20 @@ General IT knowledge:
 	
 	Information and application security concepts: public key encryption, remote access, access credentials, and certificate-based authentication
 	
+Domain:
 	
+	Highly Avalability and Business Continuity: DR based on RPO and RTO; Multi-AZ vs. Multi-Region; Self-healing; High Availability vs. Fault Tolerance
+	
+	Costing: minimize and optimize infrastructure cost, Apply appropriate AWS account and billing set-up options; Compare and contrast the cost implications of different architectures
+	
+	Deployment MAnagement: Manage lifecycle of an application, Right architecture for development, testing, and staging environments; AWS deployment mechanism
+	
+	Network Design: Design and implement networking and connectivity features
+	
+	Data Storage: Make architectural trade offs decisions involving storage and database options; Synchronous vs. asynchronous replication
+	
+	Security: Design information security management systems and compliance controls; AWS shared responsibility model and global infrastructure; Access management controls; Protection of Data at Rest and Data in Flight and Network perimiter
+	
+	Scalability and Elasticity: Loosely coupled system; Front-end scaling, middle-tier scaling, data storage scaling; trade offs between vertical and horizontal scaling
+	
+	Cloud migration and Hybrid architectures: Cloud migration (hybrid) plan and deployment
