@@ -59,19 +59,27 @@ Take practice exam
 	
 Mind set
 
-	Designing distributed applications and systems
-	
-	Dynamically scalable, highly available, fault-tolerant, reliable
+	Identify and gather requirements
 	
 	Selecting appropriate AWS service
 	
+	Designing distributed applications and systems
+	
+	Design an optimal system by meeting project requirements
+		
+		While maximizing scalability, security, reliability, durability, and cost effectiveness
+		
+		Dynamically scalable, highly available, fault-tolerant
+		
+		Cost-control strategies
+		
+		Enterprise-wide scalable operations
+	
+	Make architectural recommendations for implementation, deployment, and provisioning applications
+
+	Assess tradeoffs and implications or decisions and choices
+	
 	Migrating complex, multi-tier applications
-	
-	Enterprise-wide scalable operations
-	
-	Cost-control strategies
-	
-	Make architectural recommndations for implementation, deployment, and provisioning applications
 
 80 questions and 170 minutes
 
