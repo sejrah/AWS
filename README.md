@@ -7,6 +7,10 @@ https://aws.amazon.com/certification/certified-solutions-architect-professional/
 
 Training
 	Check You Tube for - Advanced Architecting on AWS - https://aws.amazon.com/training/course-descriptions/advanced-architecting/
+	
+	Check You Tube for - Architecting on AWS - https://aws.amazon.com/training/course-descriptions/architect/
+	
+	(Best resource) AWS Architecture Center - https://aws.amazon.com/architecture/
 		
 	aCloudGuru
 	
@@ -35,6 +39,18 @@ Study white papers and FAQs
 	https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf?refid=em_
 	
 	http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf?refid=70138000001adyu
+	
+	Overview of Security Processes
+	
+	Storage Options in the Cloud
+	
+	Defining Fault Tolerant Applications in the AWS Cloud
+	
+	Overview of Amazon Web Services
+	
+	Compliance Whitepaper
+	
+	Architecting for the AWS Cloud
 	
 	https://aws.amazon.com/whitepapers/
 	
@@ -81,6 +97,56 @@ Mind set
 	
 	Migrating complex, multi-tier applications
 
-80 questions and 170 minutes
+80 questions and 170 minutes; Time management, comprehension, cope under pressure
 
-Time management, comprehension, cope under pressure	
+AWS Knowledge:
+
+	Core Services: Compute and Networking, Storage and CDN, Database, Application Services, Deployment and Management
+	
+	Security features that AWS provides and best practices
+	
+	Design and implement for elasticity and scalability
+	
+	Network technologies: DNS and load balancing, VPC, Direct Connect
+	
+	Network connectivity options
+	
+	Storage and archival options
+	
+	State management
+	
+	Database and replication methodologies
+	
+	Self-healing techniques and fault-tolerant services
+	
+	Disaster Recovery and fail-over strategies
+	
+	Application migration plans
+	
+	Deployment and management
+
+General IT knowledge:
+
+	Large-scale distributed systems architecture
+	
+	Eventual consistency
+	
+	Relational and non-relational databases
+	
+	Multi-tier architectures: Load balancers, caching, web servers, application servers, networking and databases
+	
+	Loose coupling and stateless systems
+	
+	Content Delivery Networks
+	
+	System performance tuning
+	
+	Networking concepts: routing tables, access control lists, firewalls, NAT, HTTP, DNS, TCP/IP, OSI model
+	
+	RESTful Web Services, XML, JSON
+	
+	One or more deplouments models
+	
+	Information and application security concepts: public key encryption, remote access, access credentials, and certificate-based authentication
+	
+	
